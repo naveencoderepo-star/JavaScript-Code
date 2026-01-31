@@ -18,6 +18,6 @@ class FindLongestWordInString {
 const obj = new FindLongestWordInString();
 
 // Call the method
-const result = obj.findLongestWord("Playwright  is sfksflskfsjfslfjslfsl");
+const result = obj.findLongestWord("Playwright is test");
 
 console.log(result);
