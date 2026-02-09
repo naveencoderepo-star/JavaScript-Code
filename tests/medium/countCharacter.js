@@ -2,8 +2,8 @@ class CountCharacter {
   countChararcher(str, char) {
     let count = 0
 
-      str = str.toLowerCase();
-      char = char.toLowerCase();
+      str = str.toUpperCase();
+      char = char.toUpperCase();
 
     for (let i = 0; i < str.length; i++) {
       if (str[i] === char) {
@@ -11,7 +11,7 @@ class CountCharacter {
       }
     }
 
-    return count
+    return count;
   }
 }
 
