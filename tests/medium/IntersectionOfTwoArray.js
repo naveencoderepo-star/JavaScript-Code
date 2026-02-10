@@ -37,6 +37,6 @@ class IntersectionOfTwoArray{
 
 
 const obje = new IntersectionOfTwoArray();
-const result = obje.getIntersection([1, 2, 2, 1], [2, 2]);
+const result = obje.getIntersection([1, 2, 2, 1], [2,2]);
 console.log("Intersection Result:", result);
 
