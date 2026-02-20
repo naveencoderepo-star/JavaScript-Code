@@ -12,6 +12,8 @@
 33. Find the Longest Word in a String in JavaScript
 
 
+36. Write a Program to reverse an array in JavaScript?
+
 
 
 
